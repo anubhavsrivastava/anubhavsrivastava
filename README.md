@@ -8,4 +8,4 @@
 - 🐦 Follow me [@onlyanubhav](https://twitter.com/onlyanubhav)
 - 💰 Consider [sponsoring](https://theanubhav.com/sponsor).
 - 😄 Pronouns: he/him 🙋🏻‍♂️
-- ⚡ Fun fact: Procastination Hero but couldn't procastinate procastination.
+- ⚡ Fun fact: Procrastination Hero but couldn't procrastinate procrastination.
