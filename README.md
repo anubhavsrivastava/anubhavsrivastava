@@ -1,11 +1,9 @@
 ### Hi there 👋
 - 🔗 Home - [theanubhav.com](https://theanubhav.com)
-- 📨 Newsletter - [theanubhav.com](https://buttondown.email/theanubhav) and [DevTips](https://devtips.substack.com/)
 - 🌱 I’m currently learning TypeScript 
 - 🤔 I’m looking for help with multiple repositories. Feel free to contribute.
 - 💬 Ask me about anything, I'm happy to help!
 - 💌 How to reach me: me@theanubhav.com
 - 🐦 Follow me [@onlyanubhav](https://twitter.com/onlyanubhav)
 - 💰 Consider [sponsoring](https://theanubhav.com/sponsor).
-- 😄 Pronouns: he/him 🙋🏻‍♂️
 - ⚡ Fun fact: Procrastination Hero but couldn't procrastinate procrastination.
